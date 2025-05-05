@@ -24,3 +24,26 @@ The goal of this section is to define the design principles and user experience 
 
 ### Importance of User-Friendly Design
 A well-designed booking system enhances user experience by reducing confusion and increasing efficiency. Clear navigation, intuitive interfaces, and responsive design contribute directly to higher engagement and conversion rates. A smooth booking experience ensures users can confidently reserve accommodations without frustration, improving overall satisfaction and retention.
+### More UI/UX Design Planning
+
+#### Color Styles
+- **Primary Color:** #FF5A5F
+- **Secondary Color:** #008489
+- **Background Color:** #FFFFFF
+- **Text Color:** #222222
+- **Secondary Text Color:** #717171
+
+#### Typography
+- **Primary Font:** Circular
+- **Headings:** Circular, Bold (700), 24px-32px
+- **Body Text:** Circular, Medium (500), 16px
+- **Secondary Text:** Circular, Book (400), 14px
+
+#### Importance of Identifying Design Properties
+Understanding design properties in a mock-up ensures that:
+- **Consistency is maintained** across all pages and components.
+- **User experience remains seamless** by following established styles.
+- **Development efficiency improves** since designers and developers have clear specifications.
+- **Accessibility is prioritized**, making the platform more inclusive.
+
+By following the planned **color styles** and **typography**, the Airbnb Clone will have a professional, cohesive, and visually engaging interface.
