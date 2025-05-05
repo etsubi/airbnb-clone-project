@@ -48,6 +48,36 @@ Understanding design properties in a mock-up ensures that:
 
 By following the planned **color styles** and **typography**, the Airbnb Clone will have a professional, cohesive, and visually engaging interface.
 ## Project Roles and Responsibilities
+
+## UI Component Patterns
+This section describes the reusable UI components that will be implemented in the Airbnb Clone project to ensure consistency and maintainability.
+
+### Navbar
+**Purpose:** Provides easy navigation across the platform.
+**Features:**
+- Logo and branding.
+- Search bar for quick property searches.
+- User authentication (Login/Sign-up).
+- Mobile-friendly responsive menu.
+
+### Property Card
+**Purpose:** Displays essential property details in a compact format.
+**Features:**
+- Property image.
+- Basic details (price, location, rating).
+- Favorite button for saving properties.
+- Responsive layout for different screen sizes.
+
+### Footer
+**Purpose:** Provides essential links and company details.
+**Features:**
+- Site navigation links.
+- Social media icons.
+- Copyright and company information.
+- Contact details or help section.
+
+These components will be **designed for reusability** and will enhance the **user experience** by ensuring a clean, structured interface across the application.
+
 This section defines the various roles within the Airbnb Clone project and their contributions to the success of the development process.
 
 ### Project Manager
